@@ -4,6 +4,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 #connection data
+#{"success":true,"encryptedMessage":"57a1727f829b5c8ed0f3dd46d426384361bbddec9add1453d0c908fd5109abe2"}
 
 username = "SkillsUSA"
 password = "Let'sLearnSomeSkills"
